@@ -1,4 +1,4 @@
-# Objects Lab
+npm# Objects Lab
 
 ## Learning Goals
 
